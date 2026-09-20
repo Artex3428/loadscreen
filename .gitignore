@@ -2,7 +2,6 @@
 node_modules/
 
 # FiveM yarn
-.yarn.installed
 yarn.lock
 
 # IDE-related
