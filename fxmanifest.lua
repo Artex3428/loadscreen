@@ -18,7 +18,7 @@ server_scripts {
 }
 
 files {
-    'html/**',
+    'html/**/*',
 }
 
 loadscreen 'html/index.html'
